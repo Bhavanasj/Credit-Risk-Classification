@@ -39,6 +39,6 @@ AUC-ROC Curve.
 The results of the model evaluations are compared to determine the best-performing algorithm for credit risk classification.
 
 ## Repository Contents
-Credit Risk Classification.ipynb: The Jupyter Notebook containing the code for the project.
-credit_risk_dataset.csv: The dataset used in the project.
-README.md: This file, describing the project details.
+- Credit Risk Classification.ipynb: The Jupyter Notebook containing the code for the project.
+- credit_risk_dataset.csv: The dataset used in the project.
+- README.md: This file, describing the project details.
